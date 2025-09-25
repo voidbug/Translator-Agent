@@ -32,9 +32,9 @@ Built with Python and simple to use.
 ## ▶️ Usage
 
 Run the program:
-
+   ```bash
    python main.py
-
+   ```
 After starting, enter your Chinese text, and the assistant will return the English translation.
 
 ## 📝 Example
